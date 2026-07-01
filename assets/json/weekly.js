@@ -1,56 +1,56 @@
 window.WAKATIME_WEEKLY = {
-  "updated_at": "2026-04-28T03:59:30.542Z",
+  "updated_at": "2026-07-01T04:48:52.587Z",
   "stats": {
-    "total_hours": 40.4,
-    "daily_avg": 5.77,
-    "trend": "falling",
+    "total_hours": 0.78,
+    "daily_avg": 0.11,
+    "trend": "rising",
     "max_day": {
-      "date": "2026-04-25",
-      "hours": 7.44,
-      "text": "7 hrs 26 mins"
+      "date": "2026-06-30",
+      "hours": 0.78,
+      "text": "46 mins"
     }
   },
   "days": [
     {
-      "date": "2026-04-22",
-      "hours": 6.35,
-      "text": "6 hrs 20 mins"
+      "date": "2026-06-25",
+      "hours": 0,
+      "text": "0 secs"
     },
     {
-      "date": "2026-04-23",
-      "hours": 4.94,
-      "text": "4 hrs 56 mins"
+      "date": "2026-06-26",
+      "hours": 0,
+      "text": "0 secs"
     },
     {
-      "date": "2026-04-24",
-      "hours": 7.44,
-      "text": "7 hrs 26 mins"
+      "date": "2026-06-27",
+      "hours": 0,
+      "text": "0 secs"
     },
     {
-      "date": "2026-04-25",
-      "hours": 7.44,
-      "text": "7 hrs 26 mins"
+      "date": "2026-06-28",
+      "hours": 0,
+      "text": "0 secs"
     },
     {
-      "date": "2026-04-26",
-      "hours": 3.87,
-      "text": "3 hrs 52 mins"
+      "date": "2026-06-29",
+      "hours": 0,
+      "text": "0 secs"
     },
     {
-      "date": "2026-04-27",
-      "hours": 7.39,
-      "text": "7 hrs 23 mins"
+      "date": "2026-06-30",
+      "hours": 0.78,
+      "text": "46 mins"
     },
     {
-      "date": "2026-04-28",
-      "hours": 2.97,
-      "text": "2 hrs 58 mins"
+      "date": "2026-07-01",
+      "hours": 0,
+      "text": "0 secs"
     }
   ],
   "ai": {
-    "title": "能量衰减",
-    "quote": "代码如潮，今周退却，惰性侵袭，唯有重启方能逆转未来。",
-    "tarot": "💤 The Hermit",
-    "theme_color": "#00FFF7"
+    "title": "微光觉醒",
+    "quote": "编码时光短暂，黑客之魂却在夜色中蠢蠢欲动。",
+    "tarot": "⚡ The Magician",
+    "theme_color": "#00ffe7"
   }
 };
