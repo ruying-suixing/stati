@@ -1,9 +1,9 @@
 window.WAKATIME_WEEKLY = {
-  "updated_at": "2026-07-04T03:56:31.208Z",
+  "updated_at": "2026-07-05T04:15:44.861Z",
   "stats": {
     "total_hours": 3.2,
     "daily_avg": 0.46,
-    "trend": "rising",
+    "trend": "falling",
     "max_day": {
       "date": "2026-07-02",
       "hours": 1.03,
@@ -11,11 +11,6 @@ window.WAKATIME_WEEKLY = {
     }
   },
   "days": [
-    {
-      "date": "2026-06-28",
-      "hours": 0,
-      "text": "0 secs"
-    },
     {
       "date": "2026-06-29",
       "hours": 0,
@@ -45,12 +40,17 @@ window.WAKATIME_WEEKLY = {
       "date": "2026-07-04",
       "hours": 0,
       "text": "0 secs"
+    },
+    {
+      "date": "2026-07-05",
+      "hours": 0,
+      "text": "0 secs"
     }
   ],
   "ai": {
-    "title": "数据觉醒",
-    "quote": "代码脉冲微弱，赛博灵魂尚未觉醒，继续注入能量。",
-    "tarot": "💡 The Hermit",
-    "theme_color": "#00ffe2"
+    "title": "数据断流",
+    "quote": "代码如潮退，灵感也随风而逝，低调潜伏待重启。",
+    "tarot": "🌒 The Hermit",
+    "theme_color": "#0ff1ce"
   }
 };
