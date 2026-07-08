@@ -1,21 +1,16 @@
 window.WAKATIME_WEEKLY = {
-  "updated_at": "2026-07-07T04:12:21.970Z",
+  "updated_at": "2026-07-08T03:37:35.187Z",
   "stats": {
-    "total_hours": 4.88,
-    "daily_avg": 0.7,
-    "trend": "falling",
+    "total_hours": 6.12,
+    "daily_avg": 0.87,
+    "trend": "rising",
     "max_day": {
       "date": "2026-07-07",
-      "hours": 1.05,
-      "text": "1 hr 3 mins"
+      "hours": 3.21,
+      "text": "3 hrs 12 mins"
     }
   },
   "days": [
-    {
-      "date": "2026-07-01",
-      "hours": 0.92,
-      "text": "55 mins"
-    },
     {
       "date": "2026-07-02",
       "hours": 1.03,
@@ -43,14 +38,19 @@ window.WAKATIME_WEEKLY = {
     },
     {
       "date": "2026-07-07",
-      "hours": 1.05,
-      "text": "1 hr 3 mins"
+      "hours": 3.21,
+      "text": "3 hrs 12 mins"
+    },
+    {
+      "date": "2026-07-08",
+      "hours": 0,
+      "text": "0 secs"
     }
   ],
   "ai": {
-    "title": "能量衰减",
-    "quote": "代码的末班车已驶离，数字流在沉默中断线。",
-    "tarot": "🕰 The Hermit",
-    "theme_color": "#00FFFF"
+    "title": "能量觉醒",
+    "quote": "代码如电流，偶尔短路才能通往核心。",
+    "tarot": "⚡ Strength",
+    "theme_color": "#00ffe7"
   }
 };
