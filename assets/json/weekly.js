@@ -1,21 +1,16 @@
 window.WAKATIME_WEEKLY = {
-  "updated_at": "2026-07-08T03:37:35.187Z",
+  "updated_at": "2026-07-09T04:07:34.261Z",
   "stats": {
-    "total_hours": 6.12,
+    "total_hours": 6.11,
     "daily_avg": 0.87,
     "trend": "rising",
     "max_day": {
       "date": "2026-07-07",
-      "hours": 3.21,
-      "text": "3 hrs 12 mins"
+      "hours": 3.22,
+      "text": "3 hrs 13 mins"
     }
   },
   "days": [
-    {
-      "date": "2026-07-02",
-      "hours": 1.03,
-      "text": "1 hr 1 min"
-    },
     {
       "date": "2026-07-03",
       "hours": 0.47,
@@ -38,19 +33,24 @@ window.WAKATIME_WEEKLY = {
     },
     {
       "date": "2026-07-07",
-      "hours": 3.21,
-      "text": "3 hrs 12 mins"
+      "hours": 3.22,
+      "text": "3 hrs 13 mins"
     },
     {
       "date": "2026-07-08",
+      "hours": 1.01,
+      "text": "1 hr"
+    },
+    {
+      "date": "2026-07-09",
       "hours": 0,
       "text": "0 secs"
     }
   ],
   "ai": {
     "title": "能量觉醒",
-    "quote": "代码如电流，偶尔短路才能通往核心。",
-    "tarot": "⚡ Strength",
-    "theme_color": "#00ffe7"
+    "quote": "三小时高能冲刺，其余时间待机充电，代码如夜色下的霓虹。",
+    "tarot": "⚡ The Magician",
+    "theme_color": "#00FFE7"
   }
 };
