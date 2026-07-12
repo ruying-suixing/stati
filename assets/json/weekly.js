@@ -1,9 +1,9 @@
 window.WAKATIME_WEEKLY = {
-  "updated_at": "2026-07-11T03:34:33.572Z",
+  "updated_at": "2026-07-12T03:49:11.016Z",
   "stats": {
-    "total_hours": 10.7,
-    "daily_avg": 1.53,
-    "trend": "falling",
+    "total_hours": 12.13,
+    "daily_avg": 1.73,
+    "trend": "rising",
     "max_day": {
       "date": "2026-07-09",
       "hours": 3.42,
@@ -11,11 +11,6 @@ window.WAKATIME_WEEKLY = {
     }
   },
   "days": [
-    {
-      "date": "2026-07-05",
-      "hours": 0.91,
-      "text": "54 mins"
-    },
     {
       "date": "2026-07-06",
       "hours": 0.5,
@@ -43,14 +38,19 @@ window.WAKATIME_WEEKLY = {
     },
     {
       "date": "2026-07-11",
+      "hours": 2.34,
+      "text": "2 hrs 20 mins"
+    },
+    {
+      "date": "2026-07-12",
       "hours": 0,
       "text": "0 secs"
     }
   ],
   "ai": {
-    "title": "流光下滑",
-    "quote": "代码如夜影，熬得太久连机器人都打盹。",
-    "tarot": "🌑 The Hermit",
-    "theme_color": "#0ff3ff"
+    "title": "能量上扬",
+    "quote": "代码在燃烧，bug也在跳舞。别让堆栈溢出你的情绪。",
+    "tarot": "⚡ The Magician",
+    "theme_color": "#00fff7"
   }
 };
