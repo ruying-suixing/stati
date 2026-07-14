@@ -1,8 +1,8 @@
 window.WAKATIME_WEEKLY = {
-  "updated_at": "2026-07-13T03:50:45.933Z",
+  "updated_at": "2026-07-14T03:25:11.929Z",
   "stats": {
-    "total_hours": 14.33,
-    "daily_avg": 2.05,
+    "total_hours": 11.87,
+    "daily_avg": 1.7,
     "trend": "falling",
     "max_day": {
       "date": "2026-07-09",
@@ -11,11 +11,6 @@ window.WAKATIME_WEEKLY = {
     }
   },
   "days": [
-    {
-      "date": "2026-07-07",
-      "hours": 3.22,
-      "text": "3 hrs 13 mins"
-    },
     {
       "date": "2026-07-08",
       "hours": 1.01,
@@ -43,14 +38,19 @@ window.WAKATIME_WEEKLY = {
     },
     {
       "date": "2026-07-13",
-      "hours": 0.09,
-      "text": "5 mins"
+      "hours": 0.83,
+      "text": "49 mins"
+    },
+    {
+      "date": "2026-07-14",
+      "hours": 0.02,
+      "text": "1 min"
     }
   ],
   "ai": {
-    "title": "能量衰减",
-    "quote": "代码流失如霓虹闪烁，心跳逐步接近断电极限。",
-    "tarot": "💀 Death",
-    "theme_color": "#00fff7"
+    "title": "能量流失",
+    "quote": "代码热情逐渐冷却，赛博灵魂需要续杯重启。",
+    "tarot": "🌒 The Hermit",
+    "theme_color": "#00FFF7"
   }
 };
